@@ -1,0 +1,8 @@
+This is a todo list app you can have your VA's sign up to. 
+Then you can assign to do items to them 
+VA's can mark to do item as completed, and you can pay them right from the app if completion is approved. 
+Each todo item will have a details page, that lists tools needed to complete the task
+Links will be affiliate  
+Each todo item will have video and text instructions on how to complete the task 
+Each todo item will have a chatroom so you can communicate with assigned VA's        
+--- PRO VERSION will have video conference in each todo
